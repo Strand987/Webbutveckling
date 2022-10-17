@@ -1,0 +1,96 @@
+h1 {
+	font-family: "Copperplate";
+	color: #72F5AE;
+	text-align: center;
+	font-size: 80px;
+	}
+address {
+	font-family: "Impact";
+	font-size: 52px;
+	color: blue;
+	}
+#img1 {
+	border:10px solid green;
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+	}
+#img2 {
+	border:10px solid red;
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+	}
+#img3 {
+	border:10px solid cyan;
+	display: block; 
+	margin-right: auto;
+	margin-left: auto;
+	}
+.text1	{
+	text-align: center;
+	font-family: "Impact";
+	color:orange;
+	font-size: 30px;
+		}
+.crab	{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color: cyan;
+	font-size: 30px;
+	}
+.rick {
+	text-align: center;
+	font-family: "Cooper";
+	font-size: 25px;
+	padding:120px;
+}
+.net {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color: #49FF9C;
+	text-align: left;
+	font-size: 80px;
+}
+a:link{
+	color:black;
+	text-decoration: none;
+	margin:20px;
+	padding:20px;
+	font-size: 25px;
+	margin-top:10px;
+	margin-bottom: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	border:2px dashed black;
+	border-bottom-right-radius:20px;
+	border-top-left-radius:20px;
+	padding-top:0px;
+	padding-bottom:20px;
+	padding-right:30px;
+	padding-left:30px;
+	text-align: center;
+	}
+a:hover {
+	color: white;
+	background-color: orange;
+	}
+a:visited{
+	color: orange;
+	background-color: orange;
+	}
+a:active{
+	color: white;
+	background-color: grey;
+	}
+
+.nav {
+	text-align: center;
+	background-color:white;
+	margin-top:0px;
+	padding-bottom:22px;
+	padding-top:2px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+body {
+	margin: 100px;
+}
