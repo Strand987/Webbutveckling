@@ -11,19 +11,19 @@ address {
 	}
 #img1 {
 	border:10px solid green;
-	display: block; 
-	margin-left: auto; 
+	display: block;
+	margin-left: auto;
 	margin-right: auto;
 	}
 #img2 {
 	border:10px solid red;
-	display: block; 
-	margin-left: auto; 
+	display: block;
+	margin-left: auto;
 	margin-right: auto;
 	}
 #img3 {
 	border:10px solid cyan;
-	display: block; 
+	display: block;
 	margin-right: auto;
 	margin-left: auto;
 	}
@@ -50,7 +50,7 @@ address {
 	text-align: left;
 	font-size: 80px;
 }
-a:link{
+a.tit:link{
 	color:black;
 	text-decoration: none;
 	margin:20px;
@@ -69,15 +69,15 @@ a:link{
 	padding-left:30px;
 	text-align: center;
 	}
-a:hover {
+a.tit:hover {
 	color: white;
 	background-color: orange;
 	}
-a:visited{
+a.tit:visited{
 	color: orange;
 	background-color: orange;
 	}
-a:active{
+a.tit:active{
 	color: white;
 	background-color: grey;
 	}
@@ -91,6 +91,3 @@ a:active{
 	margin-left:auto;
 	margin-right:auto;
 	}
-body {
-	margin: 100px;
-}
