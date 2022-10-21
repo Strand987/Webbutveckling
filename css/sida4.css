@@ -1,0 +1,109 @@
+a.tit:link{
+	color:black;
+	text-decoration: none;
+	margin:20px;
+	padding:20px;
+	font-size: 25px;
+	margin-top:10px;
+	margin-bottom: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	border:2px dashed black;
+	border-bottom-right-radius:20px;
+	border-top-left-radius:20px;
+	padding-top:0px;
+	padding-bottom:20px;
+	padding-right:30px;
+	padding-left:30px;
+	text-align: center;
+	}
+
+a.tit:hover {
+	color: white;
+	background-color: orange;
+	}
+a.tit:visited{
+	color: orange;
+	background-color: orange;
+	}
+a.tit:active{
+	color: white;
+	background-color: grey;
+	}
+
+.nav {
+	text-align: center;
+	background-color:white;
+	margin-top:0px;
+	padding-bottom:22px;
+	padding-top:2px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+  a.bookmark:link{
+  	color:black;
+  	text-decoration: none;
+  	margin:20px;
+  	font-size: 25px;
+  	border:3px ;
+  	text-align: center;
+  	}
+
+    a.bookmark:hover {
+    	color: white;
+    	background-color: gray;
+    	}
+    a.bookmark:visited{
+    	color: black;
+    	background-color: gray;
+    	}
+    a.bookmark:active{
+    	color: white;
+    	background-color: grey;
+    	}
+
+  body {
+  	margin: 100px;
+  }
+
+  .head{
+  	background-color:#a29af9;
+  	margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 30px;
+  }
+  .txt{
+  	margin-right:300px;
+    font-size:20px;
+  }
+
+  .bildtext{
+  	font-size:12px;
+  }
+  #img4{
+  border:10px solid #a29af9;;
+  border-color:#a29af9;
+  }
+  #wapimg{
+  border:10px solid #a29af9;;
+  border-color:#a29af9;
+  width:326px;
+  height:400px;
+  }
+  #google{
+    width:400px;
+    height:200px;
+  }
+  #meta{
+    width:640px;
+    height:360px;
+  }
+
+  h1 {
+  	font-family: "Copperplate";
+  	color: #72F5AE;
+  	text-align: center;
+  	font-size: 80px;
+  	}
