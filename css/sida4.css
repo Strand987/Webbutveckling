@@ -45,7 +45,7 @@ a.tit:active{
   	color:black;
   	text-decoration: none;
   	margin:20px;
-  	font-size: 25px;
+  	font-size: 23px;
   	border:3px ;
   	text-align: center;
   	}
@@ -64,7 +64,7 @@ a.tit:active{
     	}
 
   body {
-  	margin: 100px;
+  	margin: 87px;
   }
 
   .head{
